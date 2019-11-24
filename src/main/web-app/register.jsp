@@ -12,7 +12,7 @@
 Student Id<input type="number" name="stdId"/>
 Student Name<input type="text" name="stdName"/>
 Student Email<input type="text" name="stdEmail"/>
-Student Password <input type="text" name="stdPassword"/>
+Student Password <input type="password" name="stdPassword"/>
 Student City <input type="text" name="stdCity"/>
 <input type="submit" value="Register"/>
 </form>
